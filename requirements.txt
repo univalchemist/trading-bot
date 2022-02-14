@@ -1,0 +1,6 @@
+python-binance
+pandas
+numpy
+mplfinance
+joblib
+websocket-client
